@@ -49,7 +49,7 @@ class Car extends Vehicle {
 }
 
 // Main class to test the functionality
-public class task125 {
+public class Task125 {
     public static void main(String[] args) {
         // Create an instance of the Car class and set values for its attributes
         Car myCar = new Car("Toyota", "Camry", 2022, 4);
